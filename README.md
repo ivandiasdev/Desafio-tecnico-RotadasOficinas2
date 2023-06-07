@@ -22,7 +22,7 @@ git clone https://github.com/ivandiasdev/Desafio-tecnico-RotadasOficinas2
 ## 🚀 Iniciando a aplicacação
 Com o projeto clonado em sua máquina e dentro do diretório `Desafio-tecnico-RotadasOficinas2`, abra no Vs Code com o Live server instalado, clique com o botão direito no arquivo index.html e selecione a opção "abrir com o Live Server".
 
-Aguarde até que a aplicacação seja iniciada.
+Aguarde até que a aplicacação seja iniciada no navegador.
 
 ## Autor
 
